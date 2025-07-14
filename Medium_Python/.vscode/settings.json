@@ -1,0 +1,30 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "'JetBrainsMono Nerd Font Propo', 'D2CodingLigature Nerd Font Propo', 'IBM Plex Sans KR Light', 'Monoplex KR Nerd'",
+    "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font Propo', 'D2CodingLigature Nerd Font Propo', 'IBM Plex Sans KR Light', 'Monoplex KR Nerd'",
+    "editor.fontLigatures": true,
+    "redhat.telemetry.enabled": true,
+    "markdown.preview.lineHeight": 1.4,
+    "sshfs.configs": [
+        {
+            "name": "RuleXuanJetsonNano"
+        }
+    ],
+    "files.exclude": {
+    },
+    "terminal.integrated.fontLigatures.enabled": true,
+    "terminal.integrated.fontLigatures.featureSettings": "\"calt\" on, \"dlig\" on",
+    "terminal.integrated.hideOnStartup": "always",
+    "terminal.integrated.suggest.enabled": true,
+    "terminal.integrated.tabs.defaultColor": "terminal.ansiMagenta",
+    "terminal.integrated.tabs.focusMode": "singleClick",
+    "terminal.integrated.useWslProfiles": false,
+    "terminal.integrated.windowsEnableConpty": false,
+    "terminal.integrated.focusAfterRun": "terminal",
+    "python.createEnvironment.contentButton": "show",
+    "python.venvFolders": "/home/xuan/Downloads/Storage/Github_RuleXuanOrg/Medium_Python/.venv",
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.focusAfterLaunch": true,
+    "files.autoSave": "onFocusChange",
+    "editor.tabSize": 2,
+}
