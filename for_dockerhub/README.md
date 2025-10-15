@@ -1,2 +1,0 @@
-# fordockerhub
-For docker
